@@ -1,0 +1,6 @@
+{
+  "name": "Mt Kenya Chogoria Trail & Safari",
+  "description": "Complete guide, certified guide & porter booking, fee calculator, offline topographical map, and live summit weather for Mount Kenya Chogoria Route.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
